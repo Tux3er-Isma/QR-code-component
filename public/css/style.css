@@ -1,1 +1,22 @@
+/*Variables*/
+/*Color Variables*/
+/*Font Variables*/
+/*SCSS Files*/
+/*Main Styles*/
+.main .main__card {
+  background-color: #fff;
+}
 
+/*SCSS Files*/
+/*General Styles*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0f0;
+}
+
+/*# sourceMappingURL=style.css.map */
