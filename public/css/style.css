@@ -1,0 +1,73 @@
+/*Variables*/
+/*Color Variables*/
+/*Font Variables*/
+/*SCSS Files*/
+/*Main Styles*/
+.main {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main .main__card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: -7px 7px 15px 1px hsl(220deg, 15%, 55%);
+  background-color: #fff;
+}
+.main .main__card .main__card__thumbnail-container {
+  padding: 15px;
+}
+.main .main__card .main__card__thumbnail-container .main__card__thumbnail-container__thumbnail {
+  width: 250px;
+  height: 250px;
+  border-radius: 10px;
+}
+.main .main__card .main__card__text-container {
+  padding-bottom: 40px;
+}
+.main .main__card .main__card__text-container .main__card__text-container__title {
+  color: hsl(218deg, 44%, 22%);
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.main .main__card .main__card__text-container .main__card__text-container__text {
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+  color: hsl(220deg, 15%, 55%);
+  font-weight: 400;
+  font-size: 15px;
+}
+
+/*SCSS Files*/
+/*Footer Styles*/
+.footer {
+  display: flex;
+  justify-content: center;
+}
+.footer .Tux3er {
+  position: relative;
+  bottom: 40px;
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+}
+
+/*SCSS Files*/
+/*General Styles*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(212deg, 45%, 89%);
+  overflow-y: hidden;
+}
+
+/*# sourceMappingURL=style.css.map */
