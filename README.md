@@ -6,11 +6,7 @@
 	<br>
 	<img src="https://github.com/Tux3er-Isma/QR-code-component/blob/master/public/assets/design/desktop-preview.jpg" width=800>
 	<br>
-<<<<<<< HEAD
 	<p>This is a solution to the <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank">QR Code Component</a> on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.</p>
-=======
-	<p>This is a solution to the <a href="https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa" target="_blank">Product preview card component</a> on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.</p>
->>>>>>> 8baeadb9964d41c1b656255c7a7d81513d33ef48
 </div>
 <br>
 <br>
