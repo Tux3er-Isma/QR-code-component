@@ -81,8 +81,4 @@
 		<li>Frontend Mentor - <a href="https://www.frontendmentor.io/profile/Tux3er-Isma" target="_blank">@Tux3er-Isma</a></li>
 		<li>Github - <a href="https://github.com/Tux3er-Isma"><img src="https://img.shields.io/github/followers/Tux3er-Isma?label=Tux3er-Isma&style=social"></a></li>
 	</ul>
-<<<<<<< HEAD
 </div>
-=======
-</div>
->>>>>>> 8baeadb9964d41c1b656255c7a7d81513d33ef48
