@@ -2,3 +2,49 @@
 @use 'variables';
 
 /*Main Styles*/
+.main{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    .main__card{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border-radius: 10px;
+        box-shadow: -7px 7px 15px 1px variables.$grayish-blue;
+        background-color: variables.$white;
+
+        .main__card__thumbnail-container{
+            padding: 15px;
+
+            .main__card__thumbnail-container__thumbnail{
+                width: 250px;
+                height: 250px;
+                border-radius: 10px;
+            }
+        }
+
+        .main__card__text-container{
+            padding-bottom: 40px;
+
+            .main__card__text-container__title{
+                color: variables.$dark-blue;
+                font-family: variables.$outfit;
+                text-align: center;
+                font-weight: 700;
+                font-size: 20px;
+                margin-bottom: 10px;
+            }
+
+            .main__card__text-container__text{
+                text-align: center;
+                font-family: variables.$outfit;
+                color: variables.$grayish-blue;
+                font-weight: 400;
+                font-size: 15px;
+            }
+        }
+    }
+}

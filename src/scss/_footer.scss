@@ -2,3 +2,14 @@
 @use 'variables';
 
 /*Footer Styles*/
+.footer{
+    display: flex;
+    justify-content: center;
+
+    .Tux3er{
+        position: relative;
+        bottom: 40px;
+        font-family: variables.$outfit;
+        text-align: center;
+    }
+}
